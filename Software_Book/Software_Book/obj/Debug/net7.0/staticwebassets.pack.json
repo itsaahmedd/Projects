@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/obj/Debug/net7.0/scopedcss/projectbundle/Software_Book.bundle.scp.css",
+      "PackagePath": "staticwebassets/Software_Book.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/css/image.jpg",
+      "PackagePath": "staticwebassets/css/image.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/css/styling.css",
+      "PackagePath": "staticwebassets/css/styling.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/css/theme-basic.css",
+      "PackagePath": "staticwebassets/css/theme-basic.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/css/theme-glass.css",
+      "PackagePath": "staticwebassets/css/theme-glass.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/images/image_0.jpg",
+      "PackagePath": "staticwebassets/images/image_0.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/images/image_1.jpg",
+      "PackagePath": "staticwebassets/images/image_1.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/images/image_2.jpg",
+      "PackagePath": "staticwebassets/images/image_2.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/images/image_3.jpg",
+      "PackagePath": "staticwebassets/images/image_3.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/images/image_4.jpg",
+      "PackagePath": "staticwebassets/images/image_4.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/images/image_5.jpg",
+      "PackagePath": "staticwebassets/images/image_5.jpg"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/js/bundle.js",
+      "PackagePath": "staticwebassets/js/bundle.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/js/calendaro.js",
+      "PackagePath": "staticwebassets/js/calendaro.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ahmedhassanin/Projects/Software_Book/Software_Book/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Software_Book.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Software_Book.props",
+      "PackagePath": "build\\Software_Book.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Software_Book.props",
+      "PackagePath": "buildMultiTargeting\\Software_Book.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Software_Book.props",
+      "PackagePath": "buildTransitive\\Software_Book.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

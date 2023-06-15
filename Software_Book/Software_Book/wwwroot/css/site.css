@@ -1,0 +1,284 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #f6f7f8;
+}
+
+
+
+.border-top footer text-muted{
+    background-color:black;
+}
+
+
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+table {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff; /* white background */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* light shadow effect */
+}
+
+    table th,
+    table td {
+        padding: 12px;
+        text-align: left;
+        border: 1px solid #dfe1e5; /* light gray border */
+    }
+
+    table th {
+        background-color: #1877f2; /* Facebook blue */
+        color: #ffffff; /* white text color */
+    }
+
+thead {
+    background-color: #1877f2;
+    color: white;
+}
+
+tbody  {
+    background-color: white;
+    color: black;
+}
+
+td.selected {
+    background-color: #085ac6;
+}
+
+table td:first-child {
+    font-weight: bold;
+}
+
+table td, table th {
+    border: 1px solid lightgray;
+}
+
+@media (max-width: 768px) {
+    table {
+        font-size: 18px;
+    }
+}
+
+form input[type="submit"] {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #1877f2; /* Facebook blue */
+    color: black;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+
+    color: black;
+}
+
+.form-label{
+    color: black;
+}
+
+.btn{
+    color: black;
+}
+
+
+select {
+
+    align-self:center;
+    width: 25%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #dfe1e5; /* light gray border */
+    border-radius: 5px;
+    background-color: #f6f7f8; /* light gray background */
+    color: #1c1e21; /* black text color */
+    font-size: 16px;
+}
+
+    select:focus {
+        outline: none;
+        border: 1px solid #1877f2; /* Facebook blue */
+        box-shadow: 0px 0px 5px #1877f2; /* Facebook blue */
+    }
+
+
+.animated-header {
+    animation: bounce 1s infinite;
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+
+.animated-header_1 {
+    animation: slideIn 1s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    transform: translateX(-100%);
+}
+
+@keyframes slideIn {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+
+.animated-header_3 {
+  opacity: 0;
+  animation: reading 4s forwards;
+}
+
+@keyframes reading {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.image-container {
+    position: relative;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.animated-header_2 {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 8s steps(40) forwards;
+}
+
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    animation: rotate-images 24s linear infinite;
+}
+
+    .image-container img:nth-child(1) {
+        animation-delay: 0s;
+    }
+
+    .image-container img:nth-child(2) {
+        animation-delay: 8s;
+    }
+
+    .image-container img:nth-child(3) {
+        animation-delay: 16s;
+    }
+
+    .image-container img:nth-child(1) ~ .animated-header_2 {
+        animation: typing 8s steps(40) forwards;
+    }
+
+    .image-container img:nth-child(2) ~ .animated-header_2 {
+        animation: typing 8s steps(40) forwards;
+        animation-delay: 8s;
+    }
+
+    .image-container img:nth-child(3) ~ .animated-header_2 {
+        animation: typing 8s steps(40) forwards;
+        animation-delay: 16s;
+    }
+
+@keyframes typing {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 100%;
+    }
+}
+
+@keyframes rotate-images {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 1;
+    }
+
+    30% {
+        opacity: 0;
+    }
+}
+
+.image-container_1 img {
+    position: absolute;
+    opacity: 0;
+    animation: rotate-images 18s linear infinite;
+}
+
+    .image-container_1 img:nth-child(1) {
+        animation-delay: 0s;
+    }
+
+    .image-container_1 img:nth-child(2) {
+        animation-delay: 6s;
+    }
+
+    .image-container_1 img:nth-child(3) {
+        animation-delay: 12s;
+    }
+
+.btn-primary {
+    color: white;
+}
+
+
